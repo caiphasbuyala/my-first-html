@@ -67,6 +67,28 @@ Challenge: Keeping the code readable without CSS.
 
 Solution: Used proper indentation comments <!--About Section-->
 
+Question 5
+Part 1
+I really still don't understand the usage of Git commands.
+
+Part 2 Still absorbing how they actually work
+
+Part 3
+It lets you track changes , revert mistakes and collaborate. If I break something, I can go back to the last working commit.
+
+Question 6
+Part 1
+I ran my code through the W3C Markup Validation Service and manually checked that every opening tag had a closing tag.
+
+Part 2
+• 2-space indentation
+• Semantic tags instead of only <div>
+• Comments to separate sections
+• Lowercase tags and attributes
+
+Part 3
+I would add external CSS for styling, make it responsive with media queries, and JavaScript for form validation, and include more accessibility features like ARIA labels. 
+
 
 
 
