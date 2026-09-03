@@ -69,9 +69,16 @@ Solution: Used proper indentation comments <!--About Section-->
 
 Question 5
 Part 1
-I really still don't understand the usage of Git commands.
+git init
+git add .
+git commit -m "Initial commit: basic structure"
+git commit -m "Add About and Skills sections"
+git branch -M main
+git remote add origin
+git push -u origin main
 
-Part 2 Still absorbing how they actually work
+Part 2
+I made about 7 commits. Strategy was one commit per major section. Messages were understandable and in present tense.
 
 Part 3
 It lets you track changes , revert mistakes and collaborate. If I break something, I can go back to the last working commit.
@@ -88,42 +95,3 @@ Part 2
 
 Part 3
 I would add external CSS for styling, make it responsive with media queries, and JavaScript for form validation, and include more accessibility features like ARIA labels. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
